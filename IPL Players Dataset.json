@@ -1,0 +1,2123 @@
+[
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316796.jpg",
+    "points": 98,
+    "tier": "Premium"
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316739.jpg",
+    "points": 97,
+    "tier": "Premium"
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316797.jpg",
+    "points": 96,
+    "tier": "Premium"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316738.jpg",
+    "points": 97,
+    "tier": "Premium"
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316743.jpg",
+    "points": 93,
+    "tier": "Premium"
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316740.jpg",
+    "points": 91,
+    "tier": "Premium"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316741.jpg",
+    "points": 94,
+    "tier": "Premium"
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316742.jpg",
+    "points": 92,
+    "tier": "Premium"
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316745.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Mohammed Siraj",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316747.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Rishabh Pant",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316746.jpg",
+    "points": 95,
+    "tier": "Premium"
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316748.jpg",
+    "points": 91,
+    "tier": "Premium"
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316750.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316753.jpg",
+    "points": 95,
+    "tier": "Premium"
+  },
+  {
+    "name": "Jos Buttler",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316754.jpg",
+    "points": 96,
+    "tier": "Premium"
+  },
+  {
+    "name": "David Warner",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316755.jpg",
+    "points": 93,
+    "tier": "Premium"
+  },
+  {
+    "name": "AB de Villiers",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316756.jpg",
+    "points": 99,
+    "tier": "Premium"
+  },
+  {
+    "name": "Chris Gayle",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316757.jpg",
+    "points": 96,
+    "tier": "Premium"
+  },
+  {
+    "name": "Rashid Khan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316758.jpg",
+    "points": 94,
+    "tier": "Premium"
+  },
+  {
+    "name": "Andre Russell",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316759.jpg",
+    "points": 95,
+    "tier": "Premium"
+  },
+  {
+    "name": "Kieron Pollard",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316760.jpg",
+    "points": 92,
+    "tier": "Premium"
+  },
+  {
+    "name": "Faf du Plessis",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316761.jpg",
+    "points": 91,
+    "tier": "Premium"
+  },
+  {
+    "name": "Quinton de Kock",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316762.jpg",
+    "points": 91,
+    "tier": "Premium"
+  },
+  {
+    "name": "Glenn Maxwell",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316763.jpg",
+    "points": 93,
+    "tier": "Premium"
+  },
+  {
+    "name": "Mitchell Starc",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316764.jpg",
+    "points": 94,
+    "tier": "Premium"
+  },
+  {
+    "name": "Trent Boult",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316765.jpg",
+    "points": 92,
+    "tier": "Premium"
+  },
+  {
+    "name": "Kagiso Rabada",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316766.jpg",
+    "points": 93,
+    "tier": "Premium"
+  },
+  {
+    "name": "Sunil Narine",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316767.jpg",
+    "points": 92,
+    "tier": "Premium"
+  },
+  {
+    "name": "Nicholas Pooran",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316768.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Liam Livingstone",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316769.jpg",
+    "points": 91,
+    "tier": "Premium"
+  },
+  {
+    "name": "Shikhar Dhawan",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316770.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Ambati Rayudu",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316771.jpg",
+    "points": 78,
+    "tier": "Gold"
+  },
+  {
+    "name": "Ishan Kishan",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316772.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316773.jpg",
+    "points": 81,
+    "tier": "Gold"
+  },
+  {
+    "name": "Axar Patel",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316774.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316775.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316776.jpg",
+    "points": 84,
+    "tier": "Gold"
+  },
+  {
+    "name": "Kuldeep Yadav",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316777.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Sanju Samson",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316778.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Robin Uthappa",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316779.jpg",
+    "points": 76,
+    "tier": "Gold"
+  },
+  {
+    "name": "Dinesh Karthik",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316780.jpg",
+    "points": 79,
+    "tier": "Gold"
+  },
+  {
+    "name": "Manish Pandey",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316781.jpg",
+    "points": 77,
+    "tier": "Gold"
+  },
+  {
+    "name": "Prithvi Shaw",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316782.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Ruturaj Gaikwad",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316783.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Devdutt Padikkal",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316784.jpg",
+    "points": 79,
+    "tier": "Gold"
+  },
+  {
+    "name": "Krunal Pandya",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316785.jpg",
+    "points": 78,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shardul Thakur",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316786.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Harshal Patel",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316787.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Avesh Khan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316788.jpg",
+    "points": 76,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mohd Shami",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316789.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "R Ashwin",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316790.jpg",
+    "points": 90,
+    "tier": "Premium"
+  },
+  {
+    "name": "Rahul Tewatia",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316791.jpg",
+    "points": 77,
+    "tier": "Gold"
+  },
+  {
+    "name": "Tilak Varma",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316792.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Yashasvi Jaiswal",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316793.jpg",
+    "points": 86,
+    "tier": "Gold"
+  },
+  {
+    "name": "Rinku Singh",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316794.jpg",
+    "points": 81,
+    "tier": "Gold"
+  },
+  {
+    "name": "Rovman Powell",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316795.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Jason Roy",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316800.jpg",
+    "points": 84,
+    "tier": "Gold"
+  },
+  {
+    "name": "Jonny Bairstow",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316801.jpg",
+    "points": 86,
+    "tier": "Gold"
+  },
+  {
+    "name": "Ben Stokes",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316802.jpg",
+    "points": 88,
+    "tier": "Gold"
+  },
+  {
+    "name": "Chris Woakes",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316803.jpg",
+    "points": 78,
+    "tier": "Gold"
+  },
+  {
+    "name": "Sam Curran",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316804.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Marcus Stoinis",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316805.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Steve Smith",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316806.jpg",
+    "points": 87,
+    "tier": "Gold"
+  },
+  {
+    "name": "Aaron Finch",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316807.jpg",
+    "points": 84,
+    "tier": "Gold"
+  },
+  {
+    "name": "Matthew Wade",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316808.jpg",
+    "points": 78,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316809.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Odean Smith",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316810.jpg",
+    "points": 76,
+    "tier": "Gold"
+  },
+  {
+    "name": "Kyle Mayers",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316811.jpg",
+    "points": 79,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mujeeb ur Rahman",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316812.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Wanindu Hasaranga",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316813.jpg",
+    "points": 85,
+    "tier": "Gold"
+  },
+  {
+    "name": "Dushmantha Chameera",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316814.jpg",
+    "points": 76,
+    "tier": "Gold"
+  },
+  {
+    "name": "Kusal Mendis",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316815.jpg",
+    "points": 79,
+    "tier": "Gold"
+  },
+  {
+    "name": "Babar Azam",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316816.jpg",
+    "points": 88,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shadab Khan",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316817.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shaheen Afridi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316818.jpg",
+    "points": 87,
+    "tier": "Gold"
+  },
+  {
+    "name": "Fakhar Zaman",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316819.jpg",
+    "points": 81,
+    "tier": "Gold"
+  },
+  {
+    "name": "Anrich Nortje",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316820.jpg",
+    "points": 85,
+    "tier": "Gold"
+  },
+  {
+    "name": "Rassie van der Dussen",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316821.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Aiden Markram",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316822.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316823.jpg",
+    "points": 84,
+    "tier": "Gold"
+  },
+  {
+    "name": "Lockie Ferguson",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316824.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Devon Conway",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316825.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Martin Guptill",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316826.jpg",
+    "points": 80,
+    "tier": "Gold"
+  },
+  {
+    "name": "Tim Southee",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316827.jpg",
+    "points": 82,
+    "tier": "Gold"
+  },
+  {
+    "name": "Josh Hazlewood",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316828.jpg",
+    "points": 86,
+    "tier": "Gold"
+  },
+  {
+    "name": "Adam Zampa",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316829.jpg",
+    "points": 79,
+    "tier": "Gold"
+  },
+  {
+    "name": "Tim David",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316830.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Dawid Malan",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316831.jpg",
+    "points": 81,
+    "tier": "Gold"
+  },
+  {
+    "name": "Moeen Ali",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316832.jpg",
+    "points": 83,
+    "tier": "Gold"
+  },
+  {
+    "name": "Rahul Chahar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316833.jpg",
+    "points": 76,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mayank Agarwal",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316834.jpg",
+    "points": 73,
+    "tier": "Silver"
+  },
+  {
+    "name": "Wriddhiman Saha",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316835.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Kedar Jadhav",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316836.jpg",
+    "points": 64,
+    "tier": "Silver"
+  },
+  {
+    "name": "Suresh Raina",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316837.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Harbhajan Singh",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316838.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ajinkya Rahane",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316839.jpg",
+    "points": 69,
+    "tier": "Silver"
+  },
+  {
+    "name": "Murali Vijay",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316840.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "Piyush Chawla",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316841.jpg",
+    "points": 65,
+    "tier": "Silver"
+  },
+  {
+    "name": "Umesh Yadav",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316842.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ishant Sharma",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316843.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jaydev Unadkat",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316844.jpg",
+    "points": 66,
+    "tier": "Silver"
+  },
+  {
+    "name": "Dhawal Kulkarni",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316845.jpg",
+    "points": 62,
+    "tier": "Silver"
+  },
+  {
+    "name": "Stuart Binny",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316846.jpg",
+    "points": 61,
+    "tier": "Silver"
+  },
+  {
+    "name": "Parthiv Patel",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316847.jpg",
+    "points": 63,
+    "tier": "Silver"
+  },
+  {
+    "name": "Naman Ojha",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316848.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Cheteshwar Pujara",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316849.jpg",
+    "points": 65,
+    "tier": "Silver"
+  },
+  {
+    "name": "Hanuma Vihari",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316850.jpg",
+    "points": 63,
+    "tier": "Silver"
+  },
+  {
+    "name": "Nitish Rana",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316851.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Venkatesh Iyer",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316852.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Deepak Hooda",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316853.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Shivam Dube",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316854.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Vijay Shankar",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316855.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "K Gowtham",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316856.jpg",
+    "points": 62,
+    "tier": "Silver"
+  },
+  {
+    "name": "Dinesh Balan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316857.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Gurkeerat Singh Mann",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316858.jpg",
+    "points": 61,
+    "tier": "Silver"
+  },
+  {
+    "name": "Yusuf Pathan",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316859.jpg",
+    "points": 71,
+    "tier": "Silver"
+  },
+  {
+    "name": "Irfan Pathan",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316860.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mohammad Kaif",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316861.jpg",
+    "points": 64,
+    "tier": "Silver"
+  },
+  {
+    "name": "Saurabh Tiwary",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316862.jpg",
+    "points": 63,
+    "tier": "Silver"
+  },
+  {
+    "name": "Abhinav Mukund",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316863.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jalaj Saxena",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316864.jpg",
+    "points": 61,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ankit Bawne",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316865.jpg",
+    "points": 62,
+    "tier": "Silver"
+  },
+  {
+    "name": "Evin Lewis",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316866.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Shai Hope",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316867.jpg",
+    "points": 71,
+    "tier": "Silver"
+  },
+  {
+    "name": "Alzarri Joseph",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316868.jpg",
+    "points": 73,
+    "tier": "Silver"
+  },
+  {
+    "name": "Fabian Allen",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316869.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "Shamarh Brooks",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316870.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Brandon King",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316871.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Imran Tahir",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316872.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Lungi Ngidi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316873.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Reeza Hendricks",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316874.jpg",
+    "points": 69,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tristan Stubbs",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316875.jpg",
+    "points": 71,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tabraiz Shamsi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316876.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Will Jacks",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316877.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Harry Brook",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316878.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Phil Salt",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316879.jpg",
+    "points": 73,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jordan Cox",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316880.jpg",
+    "points": 63,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mark Wood",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316881.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Reece Topley",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316882.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mitchell Marsh",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316883.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Josh Inglis",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316884.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Cameron Green",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316885.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Nathan Ellis",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316886.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Riley Meredith",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316887.jpg",
+    "points": 65,
+    "tier": "Silver"
+  },
+  {
+    "name": "Noor Ahmad",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316888.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "Akeal Hosein",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316889.jpg",
+    "points": 65,
+    "tier": "Silver"
+  },
+  {
+    "name": "Rahmanullah Gurbaz",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316890.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Hazratullah Zazai",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316891.jpg",
+    "points": 66,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mohammad Nabi",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316892.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Naveen ul Haq",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316893.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Matheesha Pathirana",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316894.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Charith Asalanka",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316895.jpg",
+    "points": 69,
+    "tier": "Silver"
+  },
+  {
+    "name": "Dasun Shanaka",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316896.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "Maheesh Theekshana",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316897.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mohammad Rizwan",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316898.jpg",
+    "points": 74,
+    "tier": "Silver"
+  },
+  {
+    "name": "Iftikhar Ahmed",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316899.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Haris Rauf",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316900.jpg",
+    "points": 73,
+    "tier": "Silver"
+  },
+  {
+    "name": "Naseem Shah",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316901.jpg",
+    "points": 73,
+    "tier": "Silver"
+  },
+  {
+    "name": "Usman Khan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316902.jpg",
+    "points": 61,
+    "tier": "Silver"
+  },
+  {
+    "name": "Azam Khan",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316903.jpg",
+    "points": 64,
+    "tier": "Silver"
+  },
+  {
+    "name": "Imad Wasim",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316904.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Gerald Coetzee",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316905.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tony de Zorzi",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316906.jpg",
+    "points": 66,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ryan Rickelton",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316907.jpg",
+    "points": 65,
+    "tier": "Silver"
+  },
+  {
+    "name": "Marco Jansen",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316908.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Glenn Phillips",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316909.jpg",
+    "points": 72,
+    "tier": "Silver"
+  },
+  {
+    "name": "Finn Allen",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316910.jpg",
+    "points": 70,
+    "tier": "Silver"
+  },
+  {
+    "name": "Michael Bracewell",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316911.jpg",
+    "points": 68,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ish Sodhi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316912.jpg",
+    "points": 67,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jacob Duffy",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316913.jpg",
+    "points": 63,
+    "tier": "Silver"
+  },
+  {
+    "name": "Abhishek Sharma",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316914.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Rajvardhan Hangargekar",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316915.jpg",
+    "points": 45,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Yash Dayal",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316916.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316917.jpg",
+    "points": 42,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Akash Singh",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316918.jpg",
+    "points": 47,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Atharva Taide",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316919.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Suyash Sharma",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316920.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Ravi Bishnoi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316921.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Anuj Rawat",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316922.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jitesh Sharma",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316923.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Dhruv Jurel",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316924.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Shaik Rasheed",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316925.jpg",
+    "points": 43,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Sarfaraz Khan",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316926.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shams Mulani",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316927.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Shahbaz Ahmed",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316928.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Chetan Sakariya",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316929.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Kuldeep Sen",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316930.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Sandeep Sharma",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316931.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Prasidh Krishna",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316932.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mukesh Kumar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316933.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Mohsin Khan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316934.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Navdeep Saini",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316935.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "T Natarajan",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316936.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Umran Malik",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316937.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Vivrant Sharma",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316938.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316939.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Nehal Wadhera",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316940.jpg",
+    "points": 47,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Sameer Rizvi",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316941.jpg",
+    "points": 43,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Ashutosh Sharma",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316942.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Harshit Rana",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316943.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Khaleel Ahmed",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316944.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Anmolpreet Singh",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316945.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Prerak Mankad",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316946.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Vyshak Vijaykumar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316947.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Akash Madhwal",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316948.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "N Jagadeesan",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316949.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Baba Aparajith",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316950.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tushar Deshpande",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316951.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Akash Deep",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316952.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Ramandeep Singh",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316953.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Shivam Mavi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316954.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316955.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Yash Thakur",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316956.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Varun Chakravarthy",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316957.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Hardus Viljoen",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316958.jpg",
+    "points": 47,
+    "tier": "Bronze"
+  },
+  {
+    "name": "George Linde",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316959.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Rassie van der Dussen Jr",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316960.jpg",
+    "points": 42,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Dewald Brevis",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316961.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Donovan Ferreira",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316962.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Jason Holder",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316963.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Oshane Thomas",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316964.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Sheldon Cottrell",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316965.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Raymon Reifer",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316966.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Gudakesh Motie",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316967.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Romario Shepherd",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316968.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Roston Chase",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316969.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mark Adair",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316970.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Craig Ervine",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316971.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Sikandar Raza",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316972.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Blessing Muzarabani",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316973.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316974.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316975.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316976.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Litton Das",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316977.jpg",
+    "points": 75,
+    "tier": "Gold"
+  },
+  {
+    "name": "Mehidy Hasan Miraz",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316978.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Najmul Hossain Shanto",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316979.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tanzim Hasan Sakib",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316980.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Hasan Mahmud",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316981.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Towhid Hridoy",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316982.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Lahiru Kumara",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316983.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Pathum Nissanka",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316984.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Dinesh Chandimal",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316985.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Chamika Karunaratne",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316986.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Dhananjaya de Silva",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316987.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Matthew Short",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316988.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Spencer Johnson",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316989.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Xavier Bartlett",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316990.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Jake Fraser-McGurk",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316991.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Oliver Davies",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316992.jpg",
+    "points": 47,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Tom Kohler-Cadmore",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316993.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tom Abell",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316994.jpg",
+    "points": 45,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Laurie Evans",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316995.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Saqib Mahmood",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316996.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Luke Wood",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316997.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Hamza Tahir",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316998.jpg",
+    "points": 43,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Mohammed Amir",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316700/316999.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Saim Ayub",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317001.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Tayyab Tahir",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317002.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Abbas Afridi",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317003.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Ihsanullah",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317004.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Azam Khan Jr",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317005.jpg",
+    "points": 41,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Ibrahim Zadran",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317006.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317007.jpg",
+    "points": 60,
+    "tier": "Silver"
+  },
+  {
+    "name": "Gulbadin Naib",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317008.jpg",
+    "points": 52,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Fareed Ahmad",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317009.jpg",
+    "points": 47,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Karim Janat",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317010.jpg",
+    "points": 50,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Mohammad Shahzad",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317011.jpg",
+    "points": 53,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Andile Phehlukwayo",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317012.jpg",
+    "points": 54,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Sisanda Magala",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317013.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Evan Jones",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317014.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Kwena Maphaka",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317015.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Codi Yusuf",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317016.jpg",
+    "points": 43,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Zak Crawley",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317017.jpg",
+    "points": 58,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Ben Duckett",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317018.jpg",
+    "points": 57,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Joe Root",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317019.jpg",
+    "points": 59,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Travis Head",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317020.jpg",
+    "points": 59,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Mitch Owen",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317021.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Cooper Connolly",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317022.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Gus Atkinson",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317023.jpg",
+    "points": 56,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Josh Hull",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317024.jpg",
+    "points": 41,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Olly Stone",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317025.jpg",
+    "points": 50,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Devon Thomas",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317026.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Kirk McKenzie",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317027.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Alick Athanaze",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317028.jpg",
+    "points": 51,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Kevin Sinclair",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317029.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Yankuba Sutherland",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317030.jpg",
+    "points": 43,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Nandre Burger",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317031.jpg",
+    "points": 51,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Wiaan Mulder",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317032.jpg",
+    "points": 55,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Matthew Jansen",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317033.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Mark Chapman",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317034.jpg",
+    "points": 52,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Rachin Ravindra",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317035.jpg",
+    "points": 59,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Daryl Mitchell",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317036.jpg",
+    "points": 57,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Will Young",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317037.jpg",
+    "points": 53,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Blair Tickner",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317038.jpg",
+    "points": 49,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Adam Milne",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317039.jpg",
+    "points": 51,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Saurabh Kumar",
+    "role": "Bowler",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317040.jpg",
+    "points": 48,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Kumar Kushagra",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317041.jpg",
+    "points": 46,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Nishant Sindhu",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317042.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Abishek Porel",
+    "role": "Wicketkeeper-Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317043.jpg",
+    "points": 45,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Himanshu Sharma",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317044.jpg",
+    "points": 42,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Rishi Dhawan",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317045.jpg",
+    "points": 50,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Pavan Deshpande",
+    "role": "All-rounder",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317046.jpg",
+    "points": 44,
+    "tier": "Bronze"
+  },
+  {
+    "name": "Rajat Patidar",
+    "role": "Batsman",
+    "image": "https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317000/317047.jpg",
+    "points": 56,
+    "tier": "Bronze"
+  }
+]

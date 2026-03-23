@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Virat Kohli",
+    "role": "Batsman",
+    "category": "Platinum",
+    "image": "https://picsum.photos/seed/kohli/400/500",
+    "basePrice": 2.0,
+    "points": 98,
+    "description": "Elite chase specialist with unmatched intensity at the crease.",
+    "stats": {
+      "matches": 237,
+      "runs": 7263,
+      "wickets": 4,
+      "strikeRate": 130,
+      "average": 38
+    },
+    "status": "available"
+  },
+  {
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper-Batsman",
+    "category": "Platinum",
+    "image": "https://picsum.photos/seed/dhoni/400/500",
+    "basePrice": 2.0,
+    "points": 95,
+    "description": "Ice-cold finisher and tactical mastermind who thrives under pressure.",
+    "stats": {
+      "matches": 250,
+      "runs": 5000,
+      "wickets": 0,
+      "strikeRate": 135,
+      "average": 40
+    },
+    "status": "available"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "Bowler",
+    "category": "Platinum",
+    "image": "https://picsum.photos/seed/bumrah/400/500",
+    "basePrice": 1.9,
+    "points": 94,
+    "description": "Yorker king who owns the death overs with awkward angles.",
+    "stats": {
+      "matches": 120,
+      "runs": 200,
+      "wickets": 150,
+      "strikeRate": 90,
+      "average": 25
+    },
+    "status": "available"
+  },
+  {
+    "name": "Rashid Khan",
+    "role": "All-rounder",
+    "category": "Platinum",
+    "image": "https://picsum.photos/seed/rashid/400/500",
+    "basePrice": 1.8,
+    "points": 94,
+    "description": "Mystery spinner with lethal googlies and clutch lower-order hitting.",
+    "stats": {
+      "matches": 109,
+      "runs": 900,
+      "wickets": 149,
+      "strikeRate": 138,
+      "average": 21
+    },
+    "status": "available"
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "Batsman",
+    "category": "Gold",
+    "image": "https://picsum.photos/seed/rohit/400/500",
+    "basePrice": 1.7,
+    "points": 90,
+    "description": "Effortless stroke-maker capable of massive powerplays when settled.",
+    "stats": {
+      "matches": 243,
+      "runs": 6500,
+      "wickets": 15,
+      "strikeRate": 134,
+      "average": 32
+    },
+    "status": "available"
+  },
+  {
+    "name": "KL Rahul",
+    "role": "Wicketkeeper-Batsman",
+    "category": "Gold",
+    "image": "https://picsum.photos/seed/rahul/400/500",
+    "basePrice": 1.6,
+    "points": 91,
+    "description": "Assured opener-keeper known for silky stroke play and consistency.",
+    "stats": {
+      "matches": 120,
+      "runs": 4300,
+      "wickets": 0,
+      "strikeRate": 135,
+      "average": 42
+    },
+    "status": "available"
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "All-rounder",
+    "category": "Gold",
+    "image": "https://picsum.photos/seed/hardik/400/500",
+    "basePrice": 1.5,
+    "points": 89,
+    "description": "Explosive finisher and seam-bowling all-round threat.",
+    "stats": {
+      "matches": 123,
+      "runs": 2300,
+      "wickets": 50,
+      "strikeRate": 145,
+      "average": 29
+    },
+    "status": "available"
+  },
+  {
+    "name": "Shubman Gill",
+    "role": "Batsman",
+    "category": "Gold",
+    "image": "https://picsum.photos/seed/gill/400/500",
+    "basePrice": 1.4,
+    "points": 88,
+    "description": "Classy top-order anchor with gears to accelerate late.",
+    "stats": {
+      "matches": 90,
+      "runs": 2600,
+      "wickets": 0,
+      "strikeRate": 135,
+      "average": 36
+    },
+    "status": "available"
+  },
+  {
+    "name": "Sunil Narine",
+    "role": "All-rounder",
+    "category": "Silver",
+    "image": "https://picsum.photos/seed/narine/400/500",
+    "basePrice": 1.1,
+    "points": 87,
+    "description": "Powerplay disrupter with both bat and ball in unorthodox style.",
+    "stats": {
+      "matches": 160,
+      "runs": 1200,
+      "wickets": 160,
+      "strikeRate": 165,
+      "average": 20
+    },
+    "status": "available"
+  },
+  {
+    "name": "Mohammed Shami",
+    "role": "Bowler",
+    "category": "Silver",
+    "image": "https://picsum.photos/seed/shami/400/500",
+    "basePrice": 1.0,
+    "points": 85,
+    "description": "Hit-the-deck spearhead who nips the ball around even at pace.",
+    "stats": {
+      "matches": 110,
+      "runs": 300,
+      "wickets": 140,
+      "strikeRate": 90,
+      "average": 27
+    },
+    "status": "available"
+  },
+  {
+    "name": "Rinku Singh",
+    "role": "Batsman",
+    "category": "Silver",
+    "image": "https://picsum.photos/seed/rinku/400/500",
+    "basePrice": 0.9,
+    "points": 82,
+    "description": "Lower-order dasher who can finish games with fearless strokeplay.",
+    "stats": {
+      "matches": 45,
+      "runs": 900,
+      "wickets": 0,
+      "strikeRate": 151,
+      "average": 33
+    },
+    "status": "available"
+  },
+  {
+    "name": "Tilak Varma",
+    "role": "Batsman",
+    "category": "Bronze",
+    "image": "https://picsum.photos/seed/tilak/400/500",
+    "basePrice": 0.75,
+    "points": 78,
+    "description": "Fearless left-hander who anchors middle overs with modern range.",
+    "stats": {
+      "matches": 35,
+      "runs": 740,
+      "wickets": 4,
+      "strikeRate": 136,
+      "average": 32
+    },
+    "status": "available"
+  },
+  {
+    "name": "Washington Sundar",
+    "role": "All-rounder",
+    "category": "Bronze",
+    "image": "https://picsum.photos/seed/sundar/400/500",
+    "basePrice": 0.7,
+    "points": 76,
+    "description": "Powerplay off-spinner who chips in with calm lower-order runs.",
+    "stats": {
+      "matches": 58,
+      "runs": 420,
+      "wickets": 36,
+      "strikeRate": 124,
+      "average": 24
+    },
+    "status": "available"
+  },
+  {
+    "name": "T Natarajan",
+    "role": "Bowler",
+    "category": "Bronze",
+    "image": "https://picsum.photos/seed/natarajan/400/500",
+    "basePrice": 0.65,
+    "points": 74,
+    "description": "Death-overs specialist with pinpoint yorkers and variations.",
+    "stats": {
+      "matches": 47,
+      "runs": 120,
+      "wickets": 53,
+      "strikeRate": 80,
+      "average": 28
+    },
+    "status": "available"
+  }
+]
