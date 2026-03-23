@@ -6,7 +6,10 @@ import { ServerModel } from '../models/Server.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const playerDatasetPath = path.join(__dirname, '..', 'data', 'players.json');
+const playerDatasetCandidates = [
+  path.join(__dirname, '..', '..', 'IPL Players Dataset.json'),
+  path.join(__dirname, '..', 'data', 'players.json'),
+];
 
 const DEFAULT_TIMER_DURATION = 30;
 const MINIMUM_POOL_BUFFER = 10;
@@ -21,9 +24,19 @@ let cachedPlayers = null;
 
 const loadPlayers = async () => {
   if (cachedPlayers) return cachedPlayers;
-  const file = await fs.readFile(playerDatasetPath, 'utf-8');
-  cachedPlayers = JSON.parse(file);
-  return cachedPlayers;
+  for (const datasetPath of playerDatasetCandidates) {
+    try {
+      const file = await fs.readFile(datasetPath, 'utf-8');
+      cachedPlayers = JSON.parse(file);
+      return cachedPlayers;
+    } catch (error) {
+      if (error?.code !== 'ENOENT') {
+        throw error;
+      }
+    }
+  }
+
+  throw new Error('Player dataset file not found');
 };
 
 const shuffle = (arr) => {

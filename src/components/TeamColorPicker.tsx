@@ -1,6 +1,5 @@
 import React from 'react';
 import { HexColorPicker } from 'react-colorful';
-import 'react-colorful/dist/index.css';
 
 interface TeamColorPickerProps {
   value: string;
