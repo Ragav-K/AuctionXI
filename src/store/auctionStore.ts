@@ -1,4 +1,5 @@
 import { create } from 'zustand';
+import { createJSONStorage, persist } from 'zustand/middleware';
 import type {
   AuctionResolution,
   AuctionSettings,
@@ -67,6 +68,18 @@ const normalizeTeam = (team: Team | (Team & { _id?: string })) => ({
 const normalizePlayer = (player: Player | (Player & { _id?: string })) => ({
   ...player,
   id: player.id || (player as any)._id || fallbackId(),
+  name: player.name || 'No player selected',
+  image: player.image || '',
+  category: player.category || 'Bronze',
+  role: player.role || 'Batsman',
+  basePrice: player.basePrice ?? 0,
+  stats: {
+    matches: player.stats?.matches ?? 0,
+    runs: player.stats?.runs ?? 0,
+    wickets: player.stats?.wickets ?? 0,
+    strikeRate: player.stats?.strikeRate ?? 0,
+    average: player.stats?.average ?? 0,
+  },
 });
 
 const mapAuctionFields = (auction?: CurrentAuction | null) => ({
@@ -134,6 +147,7 @@ const mapServerToState = (server: ServerState) => {
 
 interface AuctionStore {
   serverId: string | null;
+  roomId: string | null;
   status: 'idle' | 'waiting' | 'live' | 'finished';
   auctionSettings: AuctionSettings;
   auctionRules: AuctionRules | null;
@@ -164,70 +178,11 @@ interface AuctionStore {
   clearState: () => void;
 }
 
-export const useAuctionStore = create<AuctionStore>((set) => ({
-  serverId: null,
-  status: 'idle',
-  auctionSettings: defaultSettings,
-  auctionRules: null,
-  teams: [],
-  playerPool: [],
-  ...defaultAuctionFields,
-  lastResolution: null,
-  user: null,
-  socketConnected: false,
-
-  hydrateFromServer: (server) =>
-    set(() => ({
-      ...mapServerToState(server),
-    })),
-
-  handleServerUpdate: (server) =>
-    set((state) => {
-      if (!server) return state;
-      const mapped = mapServerToState(server);
-      return {
-        ...state,
-        ...mapped,
-      };
-    }),
-
-  handleBidUpdate: ({ currentBid, highestBidder, bidHistory }) =>
-    set((state) => ({
-      currentBid,
-      highestBidder: highestBidder ? normalizeTeam(highestBidder) : null,
-      bidHistory,
-    })),
-
-  handleAuctionUpdate: (auction) =>
-    set((state) => ({
-      ...mapAuctionFields(auction),
-      lastResolution: state.lastResolution,
-    })),
-
-  handleTimerUpdate: (timer) =>
-    set((state) => ({
-      timer,
-    })),
-
-  handleAuctionEnded: ({ currentAuction, resolution }) =>
-    set(() => ({
-      ...mapAuctionFields(currentAuction),
-      lastResolution: resolution ?? null,
-    })),
-
-  setUserProfile: (user) =>
-    set(() => ({
-      user,
-    })),
-
-  setSocketConnected: (connected) =>
-    set(() => ({
-      socketConnected: connected,
-    })),
-
-  clearState: () =>
-    set(() => ({
+export const useAuctionStore = create<AuctionStore>()(
+  persist(
+    (set) => ({
       serverId: null,
+      roomId: null,
       status: 'idle',
       auctionSettings: defaultSettings,
       auctionRules: null,
@@ -237,5 +192,94 @@ export const useAuctionStore = create<AuctionStore>((set) => ({
       lastResolution: null,
       user: null,
       socketConnected: false,
-    })),
-}));
+
+      hydrateFromServer: (server) =>
+        set(() => ({
+          roomId: server.serverId,
+          ...mapServerToState(server),
+        })),
+
+      handleServerUpdate: (server) =>
+        set((state) => {
+          if (!server) return state;
+          const mapped = mapServerToState(server);
+          return {
+            ...state,
+            roomId: server.serverId,
+            ...mapped,
+          };
+        }),
+
+      handleBidUpdate: ({ currentBid, highestBidder, bidHistory }) =>
+        set(() => ({
+          currentBid,
+          highestBidder: highestBidder ? normalizeTeam(highestBidder) : null,
+          bidHistory,
+        })),
+
+      handleAuctionUpdate: (auction) =>
+        set(() => ({
+          ...mapAuctionFields(auction),
+          lastResolution: null,
+        })),
+
+      handleTimerUpdate: (timer) =>
+        set(() => ({
+          timer,
+        })),
+
+      handleAuctionEnded: ({ currentAuction, resolution }) =>
+        set(() => ({
+          ...mapAuctionFields(currentAuction),
+          lastResolution: resolution ?? null,
+        })),
+
+      setUserProfile: (user) =>
+        set(() => ({
+          user,
+        })),
+
+      setSocketConnected: (connected) =>
+        set(() => ({
+          socketConnected: connected,
+        })),
+
+      clearState: () =>
+        set(() => ({
+          serverId: null,
+          roomId: null,
+          status: 'idle',
+          auctionSettings: defaultSettings,
+          auctionRules: null,
+          teams: [],
+          playerPool: [],
+          ...defaultAuctionFields,
+          lastResolution: null,
+          user: null,
+          socketConnected: false,
+        })),
+    }),
+    {
+      name: 'auctionxi-store',
+      storage: createJSONStorage(() => sessionStorage),
+      partialize: (state) => ({
+        serverId: state.serverId,
+        roomId: state.roomId,
+        status: state.status,
+        auctionSettings: state.auctionSettings,
+        auctionRules: state.auctionRules,
+        teams: state.teams,
+        playerPool: state.playerPool,
+        currentPlayer: state.currentPlayer,
+        basePrice: state.basePrice,
+        currentBid: state.currentBid,
+        highestBidder: state.highestBidder,
+        timer: state.timer,
+        bidHistory: state.bidHistory,
+        auctionStatus: state.auctionStatus,
+        lastResolution: state.lastResolution,
+        user: state.user,
+      }),
+    }
+  )
+);

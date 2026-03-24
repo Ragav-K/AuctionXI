@@ -210,8 +210,13 @@ export const CreateAuction = ({ onNavigate }: { onNavigate: (screen: Screen) => 
             onClick={handleSubmit}
             disabled={isLoading}
           >
-            {isLoading ? 'Initializing...' : 'Initialize Server'}
+            {isLoading ? 'Starting server...' : 'Initialize Server'}
           </Button>
+          {isLoading && (
+            <p className="mt-3 text-center text-sm text-white/50">
+              Waking the backend and preparing the auction room...
+            </p>
+          )}
         </div>
       </motion.div>
     </div>

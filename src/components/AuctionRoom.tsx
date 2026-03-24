@@ -54,8 +54,6 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
   }));
 
   const userTeam = teams.find((team) => team.id === user?.teamId) || null;
-  const maxPlayers = auctionSettings.playersPerTeam || auctionSettings.maxPlayers || 18;
-  const rosterSlots = Array.from({ length: Math.min(maxPlayers, 4) }, (_, index) => index);
 
   const handleBid = (increment: number) => {
     if (!currentPlayer || !userTeam || auctionStatus !== 'running') return;
@@ -71,6 +69,25 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
   };
 
   const displayBasePrice = basePrice || currentPlayer?.basePrice || 0;
+  const resolutionPlayerName = lastResolution?.player?.name || 'Selected player';
+  const resolutionWinnerName = lastResolution?.winner?.name || 'No team';
+  const safePlayerName = currentPlayer?.name || 'No player';
+  const safePlayerRole = currentPlayer?.role || 'TBD';
+  const safePlayerCategory = currentPlayer?.category || 'Unassigned';
+  const safePlayerImage = currentPlayer?.image || '';
+  const safePlayerDescription =
+    currentPlayer?.description || 'Detailed analysis will appear when AI insights are available.';
+  const safeMatches = currentPlayer?.stats?.matches ?? 0;
+
+  console.log('Auction State:', {
+    auctionStatus,
+    currentBid,
+    timer,
+    currentPlayer,
+    highestBidder,
+    bidHistory,
+  });
+  console.log('Current Player:', currentPlayer);
 
   return (
     <div className="min-h-screen bg-dark-bg flex flex-col">
@@ -124,7 +141,10 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
               <div className="flex items-center gap-3 text-sm">
                 <Award className="w-5 h-5 text-gold" />
                 <span className="font-bold">
-                  {lastResolution.player.name} {lastResolution.status === 'sold' ? `sold to ${lastResolution.winner?.name} for ${formatCurrency(lastResolution.amount ?? lastResolution.player.basePrice)}` : 'went unsold'}
+                  {resolutionPlayerName}{' '}
+                  {lastResolution.status === 'sold'
+                    ? `sold to ${resolutionWinnerName} for ${formatCurrency(lastResolution.amount ?? lastResolution.player?.basePrice)}`
+                    : 'went unsold'}
                 </span>
               </div>
               <span className="text-xs text-white/50 uppercase tracking-widest">Select the next player to continue</span>
@@ -142,19 +162,25 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
             {currentPlayer ? (
               <>
                 <div className="aspect-[4/5] relative">
-                  <img 
-                    src={currentPlayer.image} 
-                    alt={currentPlayer.name}
-                    className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
-                    referrerPolicy="no-referrer"
-                  />
+                  {safePlayerImage ? (
+                    <img 
+                      src={safePlayerImage} 
+                      alt={safePlayerName}
+                      className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700"
+                      referrerPolicy="no-referrer"
+                    />
+                  ) : (
+                    <div className="w-full h-full bg-gradient-to-br from-white/10 to-white/5 flex items-center justify-center text-white/40 text-sm font-bold uppercase tracking-[0.3em]">
+                      Player Preview
+                    </div>
+                  )}
                   <div className="absolute inset-0 bg-gradient-to-t from-navy-deep via-transparent to-transparent" />
                   
                   <div className="absolute bottom-6 left-6 right-6">
                     <div className="bg-neon-green text-navy-deep px-2 py-1 rounded text-[10px] font-black uppercase tracking-widest w-fit mb-2">
-                      {currentPlayer.role}
+                      {safePlayerRole}
                     </div>
-                    <h3 className="text-3xl font-black tracking-tight leading-none mb-1">{currentPlayer.name}</h3>
+                    <h3 className="text-3xl font-black tracking-tight leading-none mb-1">{safePlayerName}</h3>
                     <p className="text-white/60 text-sm font-medium">{currentPlayer.currentTeam || 'Awaiting assignment'}</p>
                   </div>
                 </div>
@@ -174,12 +200,12 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
             {currentPlayer ? (
               <>
                 <p className="text-sm text-white/60 leading-relaxed mb-4">
-                  {currentPlayer.description || 'Detailed analysis will appear when AI insights are available.'}
+                  {safePlayerDescription}
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="p-3 bg-white/5 rounded-xl border border-white/5">
                     <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Category</p>
-                    <p className="text-lg font-black">{currentPlayer.category}</p>
+                    <p className="text-lg font-black">{safePlayerCategory}</p>
                   </div>
                   <div className="p-3 bg-white/5 rounded-xl border border-white/5">
                     <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Base Price</p>
@@ -191,7 +217,7 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
                   </div>
                   <div className="p-3 bg-white/5 rounded-xl border border-white/5">
                     <p className="text-[10px] font-bold text-white/40 uppercase tracking-widest mb-1">Matches</p>
-                    <p className="text-lg font-black">{currentPlayer.stats.matches}</p>
+                    <p className="text-lg font-black">{safeMatches}</p>
                   </div>
                 </div>
               </>
@@ -237,20 +263,24 @@ export const AuctionRoom = ({ onNavigate }: { onNavigate?: (screen: Screen) => v
                 </div>
               </div>
 
-              {currentPlayer && (
+              {currentPlayer ? (
                 <div className="grid grid-cols-3 gap-4 text-left mt-8 text-xs uppercase tracking-widest text-white/40">
                   <div>
                     <p className="mb-1">Category</p>
-                    <p className="text-white text-base font-black">{currentPlayer.category}</p>
+                    <p className="text-white text-base font-black">{safePlayerCategory}</p>
                   </div>
                   <div>
                     <p className="mb-1">Role</p>
-                    <p className="text-white text-base font-black">{currentPlayer.role}</p>
+                    <p className="text-white text-base font-black">{safePlayerRole}</p>
                   </div>
                   <div>
                     <p className="mb-1">Base Price</p>
                     <p className="text-gold text-base font-black">{formatCurrency(displayBasePrice)}</p>
                   </div>
+                </div>
+              ) : (
+                <div className="mt-8 text-center text-sm text-white/40">
+                  Waiting for auction to start...
                 </div>
               )}
             </div>

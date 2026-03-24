@@ -9,6 +9,13 @@ interface RequestOptions {
   body?: Record<string, unknown>;
 }
 
+export const warmupServer = async () => {
+  await fetch(`${API_BASE}/ping`, {
+    method: 'GET',
+    keepalive: true,
+  }).catch(() => undefined);
+};
+
 const request = async <T>(path: string, options: RequestOptions = {}) => {
   const response = await fetch(`${API_BASE}${path}`, {
     method: options.method ?? 'GET',

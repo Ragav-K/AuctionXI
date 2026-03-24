@@ -114,6 +114,7 @@ export const initAuctionSocket = (io) => {
 
     socket.on('join_server', handleJoin);
     socket.on('joinServer', handleJoin);
+    socket.on('rejoinRoom', handleJoin);
 
     socket.on('initAuction', async ({ serverId, playerId, basePrice }) => {
       try {

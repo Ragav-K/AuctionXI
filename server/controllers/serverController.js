@@ -39,6 +39,10 @@ const loadPlayers = async () => {
   throw new Error('Player dataset file not found');
 };
 
+export const warmServerResources = async () => {
+  await loadPlayers();
+};
+
 const shuffle = (arr) => {
   const clone = [...arr];
   for (let i = clone.length - 1; i > 0; i -= 1) {
