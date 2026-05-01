@@ -4,8 +4,12 @@ interface ErrorBoundaryState {
   hasError: boolean;
 }
 
+interface ErrorBoundaryProps {
+  children?: React.ReactNode;
+}
+
 export class ErrorBoundary extends React.Component<
-  React.PropsWithChildren,
+  ErrorBoundaryProps,
   ErrorBoundaryState
 > {
   state: ErrorBoundaryState = { hasError: false };
